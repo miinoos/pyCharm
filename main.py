@@ -7,5 +7,5 @@ name = input("What is your name : ").strip().title(); #this is how to stack all 
 
 # name = name.strip().title(); #titlize the whole string after stripping
 
-print(f"Hello, {name}");
+print(f"Hello, {name}"); # for formating the print
 
