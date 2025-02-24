@@ -1,4 +1,4 @@
-name = input("What is your name : ").strip().title();
+name = input("What is your name : ").strip().title(); #this is how to stack all the functions
 
 # name = name.strip(); #no more white space
 # name = name.title(); #capitalize the name
